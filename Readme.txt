@@ -46,3 +46,5 @@ Here is a hint: Calculating the following measures could help to define proper K
 - Average Performance rating: women
 
 Reference
+
+https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience
